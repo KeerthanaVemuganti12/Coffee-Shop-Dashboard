@@ -50,11 +50,6 @@ The dataset includes transaction records from a coffee shop, detailing:
 
 ---
 
-## 📎 Sample Visuals  
-![Dashboard Preview](link-to-screenshot)  
-
----
-
 ## 🔗 How to Use  
 1️⃣ Open the **Excel File** 📂  
 2️⃣ Navigate to the **Dashboard Sheet** 📊  
